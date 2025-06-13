@@ -59,7 +59,7 @@ export default function Home() {
             </a>
             <a href='#' className="group bg-white/5 rounded flex items-center gap-4 overflow-hidden hover:bg-white/10 transition-colors">
               <Image src="/mari.jpeg" width={104} height={104} alt="Capa de álbum"/>
-              <strong>Todos Os Cantos, Vol. 1</strong>
+              <strong>Todos Os Cantos, Vol. 1 (Ao Vivo)</strong>
               <button className='p-4 rounded-full bg-green-500 ml-auto mr-6 invisible group-hover:visible transition-colors'>
                 <FaPlay size={20} className='text-black pl-0.5'/>
               </button>
@@ -70,27 +70,27 @@ export default function Home() {
 
           <div className='grid grid-cols-8 gap-4 mt-6'>
               <a href='#' className='bg-white/5 p-3 rounded-md overflow-hidden flex flex-col gap-2 hover:bg-white/10 transition-colors'>
-                <Image src="/album.jpg" className='w-full' width={104} height={104} alt="Capa de álbum"/>
+                <Image src="/dailymix.png" className='w-full' width={104} height={104} alt="Capa de álbum"/>
                 <strong className='font-semibold'>Daily Mix 1</strong>
                 <span className='text-sm text-zinc-400'>Chappell Roan, Reneé Rapp, Billie Eilish e mais</span>
               </a>
               <a href='#' className='bg-white/5 p-3 rounded-md overflow-hidden flex flex-col gap-2 hover:bg-white/10 transition-colors'>
-                <Image src="/album.jpg" className='w-full' width={104} height={104} alt="Capa de álbum"/>
+                <Image src="/dailymix.png" className='w-full' width={104} height={104} alt="Capa de álbum"/>
                 <strong className='font-semibold'>Daily Mix 2</strong>
                 <span className='text-sm text-zinc-400'>Aviões do Forró, Calcinha Preta, Mastruz com Leite e mais</span>
               </a>
               <a href='#' className='bg-white/5 p-3 rounded-md overflow-hidden flex flex-col gap-2 hover:bg-white/10 transition-colors'>
-                <Image src="/album.jpg" className='w-full' width={104} height={104} alt="Capa de álbum"/>
+                <Image src="/dailymix.png" className='w-full' width={104} height={104} alt="Capa de álbum"/>
                 <strong className='font-semibold'>Daily Mix 3</strong>
                 <span className='text-sm text-zinc-400'>DJ Blakes, MC CAROL 011, MC Rafa 22 e mais</span>
               </a>
               <a href='#' className='bg-white/5 p-3 rounded-md overflow-hidden flex flex-col gap-2 hover:bg-white/10 transition-colors'>
-                <Image src="/album.jpg" className='w-full' width={104} height={104} alt="Capa de álbum"/>
+                <Image src="/dailymix.png" className='w-full' width={104} height={104} alt="Capa de álbum"/>
                 <strong className='font-semibold'>Daily Mix 4</strong>
                 <span className='text-sm text-zinc-400'>Alceu Valença, ANAVITÓRIA, Tim Bernades e mais</span>
               </a>
               <a href='#' className='bg-white/5 p-3 rounded-md overflow-hidden flex flex-col gap-2 hover:bg-white/10 transition-colors'>
-                <Image src="/album.jpg" className='w-full' width={104} height={104} alt="Capa de álbum"/>
+                <Image src="/descobertas.jpeg" className='w-full' width={104} height={104} alt="Capa de álbum"/>
                 <strong className='font-semibold'>Descobertas da Semana</strong>
                 <span className='text-sm text-zinc-400'>Sua mixtape semanal cheia de músicas novas</span>
               </a>
